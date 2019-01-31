@@ -1,1 +1,5 @@
-# DSCI-project
+# DSCI-project 
+Authors: 
+- Ivan 
+- Yeying 
+- Prayamsh
